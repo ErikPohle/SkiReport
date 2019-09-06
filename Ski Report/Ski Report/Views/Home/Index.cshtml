@@ -1,0 +1,15 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<br />
+
+
+@model Ski_Report.Models.SubscribeModel
+
+@using (Html.BeginForm("Subscribe", "Home", FormMethod.Post))
+{
+    @Html.TextBoxFor(model => model.Email)
+    @Html.ValidationMessageFor(model => model.Email)
+    <button type="submit">Subscribe</button>
+}

@@ -1,0 +1,32 @@
+E:\GitHub\SkiReport\Ski Report\Ski Report\bin\Debug\netcoreapp2.1\Ski Report.deps.json
+E:\GitHub\SkiReport\Ski Report\Ski Report\bin\Debug\netcoreapp2.1\Ski Report.runtimeconfig.json
+E:\GitHub\SkiReport\Ski Report\Ski Report\bin\Debug\netcoreapp2.1\Ski Report.runtimeconfig.dev.json
+E:\GitHub\SkiReport\Ski Report\Ski Report\bin\Debug\netcoreapp2.1\Ski Report.dll
+E:\GitHub\SkiReport\Ski Report\Ski Report\bin\Debug\netcoreapp2.1\Ski Report.pdb
+E:\GitHub\SkiReport\Ski Report\Ski Report\bin\Debug\netcoreapp2.1\Ski Report.Views.dll
+E:\GitHub\SkiReport\Ski Report\Ski Report\bin\Debug\netcoreapp2.1\Ski Report.Views.pdb
+E:\GitHub\SkiReport\Ski Report\Ski Report\obj\Debug\netcoreapp2.1\Ski Report.csprojAssemblyReference.cache
+E:\GitHub\SkiReport\Ski Report\Ski Report\obj\Debug\netcoreapp2.1\Ski Report.csproj.CoreCompileInputs.cache
+E:\GitHub\SkiReport\Ski Report\Ski Report\obj\Debug\netcoreapp2.1\Ski Report.RazorAssemblyInfo.cache
+E:\GitHub\SkiReport\Ski Report\Ski Report\obj\Debug\netcoreapp2.1\Ski Report.RazorAssemblyInfo.cs
+E:\GitHub\SkiReport\Ski Report\Ski Report\obj\Debug\netcoreapp2.1\Ski Report.AssemblyInfoInputs.cache
+E:\GitHub\SkiReport\Ski Report\Ski Report\obj\Debug\netcoreapp2.1\Ski Report.AssemblyInfo.cs
+E:\GitHub\SkiReport\Ski Report\Ski Report\obj\Debug\netcoreapp2.1\Ski Report.TagHelpers.input.cache
+E:\GitHub\SkiReport\Ski Report\Ski Report\obj\Debug\netcoreapp2.1\Ski Report.TagHelpers.output.cache
+E:\GitHub\SkiReport\Ski Report\Ski Report\obj\Debug\netcoreapp2.1\Ski Report.RazorCoreGenerate.cache
+E:\GitHub\SkiReport\Ski Report\Ski Report\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+E:\GitHub\SkiReport\Ski Report\Ski Report\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+E:\GitHub\SkiReport\Ski Report\Ski Report\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+E:\GitHub\SkiReport\Ski Report\Ski Report\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+E:\GitHub\SkiReport\Ski Report\Ski Report\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+E:\GitHub\SkiReport\Ski Report\Ski Report\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\GitHub\SkiReport\Ski Report\Ski Report\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\GitHub\SkiReport\Ski Report\Ski Report\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\GitHub\SkiReport\Ski Report\Ski Report\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+E:\GitHub\SkiReport\Ski Report\Ski Report\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+E:\GitHub\SkiReport\Ski Report\Ski Report\obj\Debug\netcoreapp2.1\Ski Report.RazorTargetAssemblyInfo.cache
+E:\GitHub\SkiReport\Ski Report\Ski Report\obj\Debug\netcoreapp2.1\Ski Report.RazorTargetAssemblyInfo.cs
+E:\GitHub\SkiReport\Ski Report\Ski Report\obj\Debug\netcoreapp2.1\Ski Report.Views.pdb
+E:\GitHub\SkiReport\Ski Report\Ski Report\obj\Debug\netcoreapp2.1\Ski Report.dll
+E:\GitHub\SkiReport\Ski Report\Ski Report\obj\Debug\netcoreapp2.1\Ski Report.pdb
+E:\GitHub\SkiReport\Ski Report\Ski Report\obj\Debug\netcoreapp2.1\Ski Report.csproj.CopyComplete
